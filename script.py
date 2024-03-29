@@ -1,0 +1,3 @@
+flag_format = "is1abCTF{{{SAMPLE_HERE}}}"
+
+# We don't have flag generator now...
